@@ -160,7 +160,7 @@ void mainxx(){
 	swipValueUseRef(a, b);
 	cout << "swipValueUseRef a : " << a << " b : " << b << endl;
 
-	// 引用 简化二级指针
+	// 引用 简化二级指针？？？
 
 
 

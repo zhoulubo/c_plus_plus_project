@@ -38,5 +38,8 @@
     <ClCompile Include="c_plus_plus_02.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="c_plus_plus_03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

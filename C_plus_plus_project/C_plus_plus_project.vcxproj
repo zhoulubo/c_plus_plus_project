@@ -87,6 +87,7 @@
   <ItemGroup>
     <ClCompile Include="c_plus_plus_01.cpp" />
     <ClCompile Include="c_plus_plus_02.cpp" />
+    <ClCompile Include="c_plus_plus_03.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
